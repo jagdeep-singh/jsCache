@@ -30,13 +30,13 @@ To know more see [Usage in AngularJS](#usage-in-angularjs)
 * #### Installing via bower
 
     ```sh
-    $ bower install js-cache-factory --save
+    $ bower install js-cache --save
     ```
 
 * #### Download via cdn
 
     ```sh
-    Download @ -- pending
+    Comming soon ...
     ```
 
 ## Configuration
@@ -127,8 +127,11 @@ To know more see [Usage in AngularJS](#usage-in-angularjs)
     
 ## Api Reference
 
+    Comming soon ...
 
 ## Docs
+
+    Comming soon ...
 
 
 ## Testing

@@ -1,10 +1,8 @@
 {
-  "name": "jsCache",
+  "name": "js-cache-factory",
   "version": "v1.0.0",
   "description": "jsCache is a fast and small JavaScript library used for caching at client side. It helps you to decrease your server load and increase your application performance by caching api for the time period you want. Not only api you can case every type of data with desired time you want. It leverage you to organize your caching in different objects with different type of storage and different time for expiry of your caching. Its Awesome, i promise you will love it just check it out",
-  "main": [
-    "build/js-cache-min.js"
-  ],
+  "main": "build/js-cache-min.js",
   "scripts": {
     "test": "karma start",
     "start": "gulp serve"
