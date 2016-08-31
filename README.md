@@ -1,6 +1,6 @@
 # jsCache
 jsCache is a fast and small JavaScript library used for caching at client side. It helps you to decrease your server load and increase your application performance by caching api
-for the time period you want. Not only api you can case every type of data with desired time you want.
+for the time period you want. Not only api you can cache every type of data with desired time you want.
 It leverage you to organize your caching in different objects with different type of storage and different time for expiry of your caching. Currently it is beta version.
 Its Awesome, i promise you will love it just check it out.
 
